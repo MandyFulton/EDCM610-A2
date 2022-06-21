@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Title of the document</title>
+</head>
+<body>
+<style>
+.myDiv{ 
+  background-color: grey;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+p {
+  font-family: arial;
+  font-size: 25px;
+}
+</style>
+
+
+<body> 
+<header> 
+<button> 
+<div> 
+<h1> 
+<details> 
+<summary> 
+<img> 
+<a> 
+<footer> 
+ 
+<div class="myDiv">
+<h1>Sewing</h1>
+<summary>Pattern design and execution</summary>
+<details>My second hobby is sewing. In the past, I've worked as a pattern tester for several companies. My dream job would be working in costuming for cinema or stage production.
+</div>
+
+

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Title of the document</title>
+</head>
+<body>
+<style>
+.myDiv{ background-color: lightblue; } h1 { color: white; text-align: center; } p { font-family: verdana; font-size: 20px; 
+}
+</style>
+
+
+<body> 
+<header> 
+<button> 
+<div> 
+<h1> 
+<details> 
+<summary> 
+<img> 
+<a> 
+<footer> 
+ 
+<div class="myDiv">
+<h1>Reading</h1>
+<summary>Fiction</summary>
+
+<details>My first hobby is reading. I love any type of mystery, and I want to read the Jason Bourne books next.</details>
+</div>
