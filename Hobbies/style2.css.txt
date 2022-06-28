@@ -1,0 +1,68 @@
+body{ 
+   background-color: Lavender;
+}
+
+h1 {
+  color: grey;
+  text-align: left;
+}
+
+p {
+  font-family: Lucida Handwriting;
+  font-size: 18px;
+}
+
+header{font-family: Lucida Handwriting;
+  font-size: 22px;
+}
+
+button{
+padding:  70px;
+text-align: center;
+}
+
+div{
+margin-bottom:  100px;
+}
+
+details{
+  font-family: Lucida Handwriting;
+  font-size: 18px;
+}
+ 
+summary{
+  font-family: Lucida Handwriting;
+  font-size: 18px;
+}
+
+img{
+}
+ 
+a{
+}
+ 
+footer{
+  font-family: Lucida Handwriting;
+  font-size: 12px;
+} 
+
+#Hobby 1{
+border: 3px solid black;
+  outline-style: dotted;
+  outline-color: grey;
+  outline-width: thin;
+}
+
+#Hobby 2{
+border: 3px solid black;
+outline-style: double;
+outline-color: grey;
+  outline-width: thin;
+}
+
+#Hobby 3{
+border: 1px solid black;
+outline-style: dashed;
+outline-color: grey;
+  outline-width: thin;
+}
